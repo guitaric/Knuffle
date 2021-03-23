@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Knuffle/static/css/main.5866dd4a.chunk.css",
+    "main.js": "/Knuffle/static/js/main.1c7dd612.chunk.js",
+    "main.js.map": "/Knuffle/static/js/main.1c7dd612.chunk.js.map",
+    "runtime-main.js": "/Knuffle/static/js/runtime-main.10bcecab.js",
+    "runtime-main.js.map": "/Knuffle/static/js/runtime-main.10bcecab.js.map",
+    "static/js/2.2def5feb.chunk.js": "/Knuffle/static/js/2.2def5feb.chunk.js",
+    "static/js/2.2def5feb.chunk.js.map": "/Knuffle/static/js/2.2def5feb.chunk.js.map",
+    "static/js/3.5c0c9b40.chunk.js": "/Knuffle/static/js/3.5c0c9b40.chunk.js",
+    "static/js/3.5c0c9b40.chunk.js.map": "/Knuffle/static/js/3.5c0c9b40.chunk.js.map",
+    "index.html": "/Knuffle/index.html",
+    "static/css/main.5866dd4a.chunk.css.map": "/Knuffle/static/css/main.5866dd4a.chunk.css.map",
+    "static/js/2.2def5feb.chunk.js.LICENSE.txt": "/Knuffle/static/js/2.2def5feb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10bcecab.js",
+    "static/js/2.2def5feb.chunk.js",
+    "static/css/main.5866dd4a.chunk.css",
+    "static/js/main.1c7dd612.chunk.js"
+  ]
+}
